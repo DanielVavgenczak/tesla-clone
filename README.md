@@ -1,4 +1,4 @@
-<img src="/public/tesla.gif">
+<img src="/public/gif-tesla.gif">
 
 Simple clone tesla website using react
 
